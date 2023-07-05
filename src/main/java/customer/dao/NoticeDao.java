@@ -12,6 +12,7 @@ public class NoticeDao {
 	PreparedStatement pstmt=null;
 	ResultSet rs=null;
 	Statement stmt=null;
+	
 	String sql="";
 	
 	
